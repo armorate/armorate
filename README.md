@@ -2,5 +2,3 @@
 - 🌱 I’m learning web development 
 - 📫 How to reach me ... blinder404@gmail.com
 //
-- thanks
-click
